@@ -6,5 +6,7 @@ def my_collect(array)
     new_arr << array[i].upcase
     i += 1 
   end 
+  
+  new_arr
 end
 
